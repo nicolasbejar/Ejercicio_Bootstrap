@@ -1,0 +1,33 @@
+body {
+    height: 100vh;
+}
+
+#Banner {
+    background: #410f0d;
+    color: #ffffff;
+}
+
+#Footer {
+    background: #410f0d;
+    color: #ffffff;
+}
+
+#LeftMenu {
+    background: #ff6d0c;
+    color: #ffffff;
+}
+
+#TopMenu {
+    background: #81623a;
+    color: #ffffff;
+}
+
+#Par {
+    background: #2f5ab6;
+    color: #ffffff;
+}
+
+#Impar {
+    background: #d4539e;
+    color: #ffffff;
+}
